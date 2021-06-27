@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.RegexTokenizer","timestamp":1602073373166,"sparkVersion":"3.0.0","uid":"RegexTokenizer_730ea52e3ce2","paramMap":{"outputCol":"tmp_CMD","inputCol":"CMD","pattern":"[\\<\\>/:-]"},"defaultParamMap":{"outputCol":"RegexTokenizer_730ea52e3ce2__output","minTokenLength":1,"toLowercase":true,"gaps":true,"pattern":"\\s+"}}
